@@ -1,6 +1,6 @@
 {
-	"token": "Nzg2NjgwMjQ1MTc2MzY5MTk0.X9J7Eg.W0UMWZUXuukHnoLnu7LcooC7T2c",
-	"permissions": ["A Gundam#9386", "Tsedenbal#9386"],
+	"token": "Ask Tsedenbal#9386",
+	"permissions": ["Tsedenbal#9386"],
 	"bomb_messages": {"random": 10, "fixed": ["TSAR BOMBA"]},
 	"bot_permission": "2146958847",
 	"after": [["aCat", "TSAR BOMBA"], ["aChannel", "TSAR BOMBA"], ["sn", "TSAR BOMBA"], ["si", "https://i.insider.com/5452857ceab8ea170963f75c?width=700"]]
